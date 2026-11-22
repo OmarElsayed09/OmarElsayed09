@@ -17,7 +17,7 @@ I'm an AI engineering developer focused on turning machine learning and LLM conc
 
 - **Interests:** LLM applications, RAG evaluation, machine learning systems, and reliable AI deployment.
 - **Approach:** Reproducible experiments, clear documentation, measurable evaluation, and practical user interfaces.
-- **Currently improving:** Testing, CI, retrieval quality, and production-oriented engineering practices across my repositories.
+- **Engineering focus:** Improving test coverage, CI, retrieval quality, and production-oriented practices. Each repository documents its current validation limits.
 
 ## Technical stack
 
@@ -61,9 +61,15 @@ An experimental multi-agent workflow for structuring incident reports, retrievin
 
 ### [Smart Document Assistant — LLM RAG Chatbot](https://github.com/OmarElsayed09/LLM-RAG-Chatbot)
 
-A document-question-answering prototype supporting PDF, TXT, DOCX, CSV, and PPTX ingestion, text chunking, FAISS indexing, Groq-powered answers, and a Gradio interface. **Retrieval and evaluation implementation are being improved.**
+A document-question-answering prototype supporting PDF, TXT, DOCX, CSV, and PPTX ingestion, text chunking, FAISS indexing, Groq-powered answers, and a Gradio interface. Uses top-k semantic retrieval to select relevant passages; **a labeled answer-quality benchmark is not yet established.**
 
 `Python` · `LangChain` · `FAISS` · `Hugging Face` · `Groq` · `Gradio`
+
+## Repository checks
+
+Lightweight Python checks are configured in each repository. They cover syntax and selected contract tests; they are not substitutes for integration tests or independent model evaluation.
+
+[Document RAG checks](https://github.com/OmarElsayed09/LLM-RAG-Chatbot/actions) · [Emergency workflow checks](https://github.com/OmarElsayed09/smart-emergency-incident-response/actions) · [MediRAG checks](https://github.com/OmarElsayed09/medirag-clinical-assistant/actions) · [Hotel ML checks](https://github.com/OmarElsayed09/Hotel-Booking-Cancellation-ADR-Prediction/actions)
 
 ## GitHub activity
 
