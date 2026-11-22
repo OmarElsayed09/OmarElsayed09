@@ -71,6 +71,10 @@ Lightweight Python checks are configured in each repository. They cover syntax a
 
 [Document RAG checks](https://github.com/OmarElsayed09/LLM-RAG-Chatbot/actions) · [Emergency workflow checks](https://github.com/OmarElsayed09/smart-emergency-incident-response/actions) · [MediRAG checks](https://github.com/OmarElsayed09/medirag-clinical-assistant/actions) · [Hotel ML checks](https://github.com/OmarElsayed09/Hotel-Booking-Cancellation-ADR-Prediction/actions)
 
+## Verified engineering evidence
+
+For real GitHub Actions runs, evaluation provenance, and clearly documented project limitations, see the **[Portfolio Quality & Verification Report](docs/PORTFOLIO-QUALITY.md)**. All benchmark numbers are explicitly scoped to their datasets; demo screenshots show UI rendering rather than model accuracy.
+
 ## GitHub activity
 
 <div align="center">
