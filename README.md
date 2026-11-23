@@ -41,6 +41,12 @@ I'm an AI engineering developer focused on turning machine learning and LLM conc
 
 ## Featured repositories
 
+### [Omar’s Library](https://github.com/OmarElsayed09/omars-library)
+
+A local-first document search and Q&A workspace for Arabic and English. It combines BM25 and semantic retrieval and links answers to cited PDF pages.
+
+`Python` · `FastAPI` · `React` · `Ollama` · `ChromaDB`
+
 ### [MediRAG — Clinical Guidelines Assistant](https://github.com/OmarElsayed09/medirag-clinical-assistant)
 
 A clinical-guideline question-answering prototype combining dense and keyword retrieval with cross-encoder reranking. Includes source-page citations, clinical decision-support utilities, FastAPI and Streamlit interfaces, Docker configuration, and automated tests. **Educational use only; not validated for clinical decisions.**
