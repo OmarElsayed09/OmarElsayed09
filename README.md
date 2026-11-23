@@ -4,40 +4,11 @@
 
 ### AI Engineering · Machine Learning · LLM Applications
 
-Building practical AI systems with Python, retrieval-augmented generation, machine learning, and API-driven applications.
+I build document search and question-answering tools, machine learning pipelines, and multi-agent prototypes. My projects focus on clear interfaces, reproducible evaluation, and documented limitations.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=flat-square)](https://omar-elsayed-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-OmarElsayed09-181717?style=flat-square&logo=github)](https://github.com/OmarElsayed09)
 
 </div>
-
-## About me
-
-I'm an AI engineering developer focused on turning machine learning and LLM concepts into usable applications. My public projects explore grounded question answering, clinical-guideline retrieval, predictive analytics, and multi-agent workflows.
-
-- **Interests:** LLM applications, RAG evaluation, machine learning systems, and reliable AI deployment.
-- **Approach:** Reproducible experiments, clear documentation, measurable evaluation, and practical user interfaces.
-- **Engineering focus:** Improving test coverage, CI, retrieval quality, and production-oriented practices. Each repository documents its current validation limits.
-
-## Technical stack
-
-| Area | Technologies |
-| --- | --- |
-| **Programming & data** | Python, SQL, Pandas, NumPy |
-| **Machine learning** | Scikit-learn, PyTorch, TensorFlow |
-| **LLMs & retrieval** | LangChain, LangGraph, FAISS, ChromaDB, Hugging Face, Groq, Ollama |
-| **APIs & applications** | FastAPI, Flask, Streamlit, Gradio |
-| **Engineering tools** | Git, Docker, Jupyter |
-
-**Core tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Featured repositories
 
@@ -71,33 +42,15 @@ A document-question-answering prototype supporting PDF, TXT, DOCX, CSV, and PPTX
 
 `Python` · `LangChain` · `FAISS` · `Hugging Face` · `Groq` · `Gradio`
 
-## Repository checks
+## Engineering notes
 
-Lightweight Python checks are configured in each repository. They cover syntax and selected contract tests; they are not substitutes for integration tests or independent model evaluation.
+The [Portfolio Quality & Verification Report](docs/PORTFOLIO-QUALITY.md) documents evaluation methods, workflow results, and known limitations.
 
-[Document RAG checks](https://github.com/OmarElsayed09/LLM-RAG-Chatbot/actions) · [Emergency workflow checks](https://github.com/OmarElsayed09/smart-emergency-incident-response/actions) · [MediRAG checks](https://github.com/OmarElsayed09/medirag-clinical-assistant/actions) · [Hotel ML checks](https://github.com/OmarElsayed09/Hotel-Booking-Cancellation-ADR-Prediction/actions)
+[Omar’s Library checks](https://github.com/OmarElsayed09/omars-library/actions) · [Document RAG checks](https://github.com/OmarElsayed09/LLM-RAG-Chatbot/actions) · [Emergency workflow checks](https://github.com/OmarElsayed09/smart-emergency-incident-response/actions) · [MediRAG checks](https://github.com/OmarElsayed09/medirag-clinical-assistant/actions) · [Hotel ML checks](https://github.com/OmarElsayed09/Hotel-Booking-Cancellation-ADR-Prediction/actions)
 
-## Verified engineering evidence
+## Technical stack
 
-For real GitHub Actions runs, evaluation provenance, and clearly documented project limitations, see the **[Portfolio Quality & Verification Report](docs/PORTFOLIO-QUALITY.md)**. All benchmark numbers are explicitly scoped to their datasets; demo screenshots show UI rendering rather than model accuracy.
-
-## GitHub activity
-
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarElsayed09&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true)](https://github.com/OmarElsayed09)
-
-[![GitHub contribution streak](https://streak-stats.demolab.com?user=OmarElsayed09&theme=github-dark-blue&hide_border=true)](https://github.com/OmarElsayed09)
-
-</div>
-
-> These are third-party, live-generated images. If a service is unavailable or rate-limited, the widget may not render; GitHub's own contribution graph remains the authoritative activity view.
-
-## Connect
-
-- **Portfolio:** [omar-elsayed-portfolio.vercel.app](https://omar-elsayed-portfolio.vercel.app/)
-- **GitHub:** [github.com/OmarElsayed09](https://github.com/OmarElsayed09)
-
----
-
-<div align="center"><sub>Focused on building useful AI applications and improving their reliability, reproducibility, and maintainability.</sub></div>
+- **Languages and data:** Python, SQL, Pandas, NumPy
+- **Machine learning:** Scikit-learn, PyTorch, TensorFlow
+- **Retrieval and LLMs:** BM25, LangChain, LangGraph, ChromaDB, FAISS, Hugging Face, Groq, Ollama
+- **Applications and tooling:** FastAPI, Flask, React, Streamlit, Gradio, Git, Docker, Jupyter
